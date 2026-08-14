@@ -100,7 +100,7 @@ IR technology is used in a wide range of wireless applications which includes re
 
 ## STM 32 CUBE PROGRAM
 
-```
+```python
 #include "main.h"
 #include <stdbool.h>
 bool IRSENSOR;
