@@ -193,10 +193,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-### Object not Detected
+### Object Detected
 <img width="900" height="1600" alt="WhatsApp Image 2026-08-14 at 8 42 49 AM (1)" src="https://github.com/user-attachments/assets/32ccb99f-bd30-496d-bfa9-88714ccbc592" />
 
-### Object Detected
+### Object not Detected
 <img width="900" height="1600" alt="WhatsApp Image 2026-08-14 at 8 42 50 AM" src="https://github.com/user-attachments/assets/c4c743d2-97b0-4cde-9e26-1d8a4b785ef6" />
 
 
